@@ -1,0 +1,1 @@
+jQuery(function(e){jQuery("#pti_phone, #pti_postal, #pti_fax").keypress(function(e){8!=e.which&&isNaN(String.fromCharCode(e.which))&&e.preventDefault()})});

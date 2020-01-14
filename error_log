@@ -1,0 +1,24 @@
+[11-Aug-2018 10:33:00 UTC] PHP Fatal error:  Call to undefined function wp_verify_nonce() in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 4
+[14-Aug-2018 00:50:58 UTC] PHP Fatal error:  Uncaught exception 'iSDKException' with message 'ERROR: 1 - [InvalidConfig]Invalid Configuration: for help setting up your API, please contact Support (1-866-800-0004 ext. 2) (empty)' in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/api_data/isdk.php:155
+Stack trace:
+#0 /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php(9): iSDK->cfgCon('if491')
+#1 {main}
+  thrown in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/api_data/isdk.php on line 155
+[14-Aug-2018 01:20:13 UTC] PHP Fatal error:  Call to undefined function wp_verify_nonce() in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 6
+[14-Aug-2018 01:26:10 UTC] PHP Fatal error:  Call to undefined function wp_verify_nonce() in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 7
+[14-Aug-2018 01:27:18 UTC] PHP Fatal error:  Call to undefined function wp_verify_nonce() in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 7
+[15-Aug-2018 12:42:49 UTC] PHP Fatal error:  Call to undefined function wp_verify_nonce() in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 7
+[15-Aug-2018 12:44:30 UTC] PHP Fatal error:  Call to undefined function wp_verify_nonce() in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 7
+[15-Aug-2018 12:45:05 UTC] PHP Fatal error:  Call to undefined function wp_verify_nonce() in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 7
+[15-Aug-2018 13:07:17 UTC] PHP Fatal error:  Call to undefined function wp_verify_nonce() in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 7
+[15-Aug-2018 13:42:32 UTC] PHP Fatal error:  Class 'iSDK' not found in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 11
+[15-Aug-2018 13:49:15 UTC] PHP Fatal error:  Class 'iSDK' not found in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 13
+[15-Aug-2018 17:03:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 4
+[15-Aug-2018 17:05:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 4
+[15-Aug-2018 17:05:45 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 4
+[15-Aug-2018 17:07:27 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 4
+[15-Aug-2018 17:13:23 UTC] PHP Fatal error:  Call to undefined function wp_verify_nonce() in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 5
+[15-Aug-2018 17:24:21 UTC] PHP Fatal error:  Call to undefined function wp_verify_nonce() in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 5
+[15-Aug-2018 17:27:30 UTC] PHP Fatal error:  Call to undefined function wp_verify_nonce() in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 5
+[15-Aug-2018 17:29:19 UTC] PHP Fatal error:  Call to undefined function wp_verify_nonce() in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 5
+[15-Aug-2018 17:30:53 UTC] PHP Fatal error:  Call to undefined function wp_verify_nonce() in /home/clientuat/public_html/wordpress/fms/wp-content/plugins/post-to-infusionsoft/action.php on line 5
